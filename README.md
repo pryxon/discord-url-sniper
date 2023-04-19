@@ -20,7 +20,7 @@ Once you have met these requirements, you can follow these steps to run Discord 
 
 First, create a Discord account for your bot and join a server with it.
 
-Download the code for Discord URL Sniper. You can download the code from the bot's official GitHub page: https://github.com/cursedseal/URL-Sniper
+Download the code for Discord URL Sniper. You can download the code from the bot's official GitHub page: https://github.com/pryxon/discord-url-sniper
 
 Open the code in a text editor and find the line token = "BOT_TOKEN". Replace BOT_TOKEN with your Discord bot's token.
 
